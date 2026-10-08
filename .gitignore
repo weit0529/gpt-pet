@@ -1,0 +1,26 @@
+# Generated releases and local caches
+/dist/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+# Local settings, secrets and work artifacts
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+.codex/
+.aws/
+.idea/
+.vscode/
+*.log
+*.bak
+/art/
+/source/
+/example/
+/qa/
