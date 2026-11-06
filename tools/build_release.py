@@ -10,7 +10,7 @@ import zipfile
 ROOT = Path(__file__).resolve().parents[1]
 FILES = (
     'pet.json', 'spritesheet.webp', 'install.ps1', 'preview.html',
-    'README.md', 'LICENSE', 'CHANGELOG.md', 'docs/SECURITY-AUDIT.md',
+    'README.md', 'README.en.md', 'LICENSE', 'CHANGELOG.md', 'docs/SECURITY-AUDIT.md',
     'docs/images/contact-sheet.jpg', 'docs/images/idle.webp',
     'docs/images/running.webp', 'docs/images/jumping.webp', 'docs/images/review.webp',
 )

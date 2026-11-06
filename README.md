@@ -1,5 +1,7 @@
 # GPT娘 · Codex/ChatGPT 宠物
 
+**简体中文** · [English](README.en.md)
+
 白发、紫瞳的小龙娘，陪你工作、等待和庆祝。一个社区制作的 **v2 自定义宠物资源包**，使用无损透明 WebP 图集，不需要 API Key。
 
 
